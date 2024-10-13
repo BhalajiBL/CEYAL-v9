@@ -21,6 +21,12 @@
     <li><b>Mobile App Integration:</b> Integrate a mobile app with chatbot assistance for user queries.</li>
 </ul>
 
+<h2>Output</h2>
+<li>(https://github.com/user-attachments/assets/be1cb7c9-f029-4995-86da-c865962f5063)</li>
+<li>(https://github.com/user-attachments/assets/fc3309c2-6b6d-461f-a120-37e2c75d0049)</li>
+
+
+
 <h2>Technologies Used</h2>
 <ul>
     <li><b>Programming Language:</b> Java</li>
