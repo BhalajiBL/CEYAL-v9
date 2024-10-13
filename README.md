@@ -67,4 +67,4 @@ Inspiration and resources from [insert any relevant references or contributors h
 
 <h2>Contact</h2>
 <p>For any inquiries, please contact:<br>
-<b>Your Name</b>: bhalaji0bl@gmail.com</p>
+<b>Bhalaj BL</b>: bhalaji0bl@gmail.com</p>
