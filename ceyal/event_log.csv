@@ -1,0 +1,7 @@
+Task,Type,Next Tasks
+Start,Task,Task 1
+Task 1,Task,Task 2,Gateway 1
+Task 2,Task,Gateway 1
+Gateway 1,Gateway,Task 3,End Task
+Task 3,Task,End Task
+End Task,End,
