@@ -31,17 +31,17 @@
 <ul>
     <li><b>Programming Language:</b> Java</li>
     <li><b>Framework:</b> JavaFX</li>
-    <li><b>Database:</b> comming soon</li>
-    <li><b>Blockchain Technology:</b> comming soon</li>
+    <li><b>Database:</b> mysql</li>
+    <li><b>Blockchain Technology:</b> hyperledger</li>
 </ul>
 
 <h2>Installation</h2>
 <ol>
     <li>Clone the repository:
-        <pre>git clone https://github.com/yourusername/your-repo-name.git</pre>
+        <pre>git clone https://github.com/BhalajiBL/CEYAL-V9.git</pre>
     </li>
     <li>Navigate to the project directory:
-        <pre>cd your-repo-name</pre>
+        <pre>cd CEYAL-v9</pre>
     </li>
     <li>Build the project using your preferred build tool (e.g., Maven, Gradle).</li>
 </ol>
@@ -49,7 +49,7 @@
 <h2>Usage</h2>
 <ol>
     <li>Run the application:
-        <pre>java -jar your-application.jar</pre>
+        <pre>java -jar CEYAL.jar</pre>
     </li>
     <li>Follow the on-screen instructions to create and simulate process flows.</li>
 </ol>
